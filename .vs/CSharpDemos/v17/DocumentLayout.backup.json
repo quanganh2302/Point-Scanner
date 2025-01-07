@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dynamic\\1. Work\\1. On_Going\\5. Point Scanner\\chrocodilelib\\CSharpDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FFCC11-C255-2053-2C0E-930B8E975B44}|Basic\\RecordSample\\CSharpBasicRecordSample.csproj|E:\\Dynamic\\1. Work\\1. On_Going\\5. Point Scanner\\chrocodilelib\\CSharpDemo\\basic\\recordsample\\recordsampledemo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FFCC11-C255-2053-2C0E-930B8E975B44}|Basic\\RecordSample\\CSharpBasicRecordSample.csproj|solutionrelative:basic\\recordsample\\recordsampledemo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FFCC11-C255-2053-2C0E-930B8E975B44}|Basic\\RecordSample\\CSharpBasicRecordSample.csproj|e:\\dynamic\\1. work\\1. on_going\\5. point scanner\\chrocodilelib\\csharpdemo\\basic\\recordsample\\recordsampledemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FFCC11-C255-2053-2C0E-930B8E975B44}|Basic\\RecordSample\\CSharpBasicRecordSample.csproj|solutionrelative:basic\\recordsample\\recordsampledemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FFCC11-C255-2053-2C0E-930B8E975B44}|Basic\\RecordSample\\CSharpBasicRecordSample.csproj|E:\\Dynamic\\1. Work\\1. On_Going\\5. Point Scanner\\chrocodilelib\\CSharpDemo\\basic\\recordsample\\recordsampledemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5FFCC11-C255-2053-2C0E-930B8E975B44}|Basic\\RecordSample\\CSharpBasicRecordSample.csproj|solutionrelative:basic\\recordsample\\recordsampledemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FFCC11-C255-2053-2C0E-930B8E975B44}|Basic\\RecordSample\\CSharpBasicRecordSample.csproj|e:\\dynamic\\1. work\\1. on_going\\5. point scanner\\chrocodilelib\\libcore\\cs\\chrlibconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecordSampleDemo.cs",
+              "DocumentMoniker": "E:\\Dynamic\\1. Work\\1. On_Going\\5. Point Scanner\\chrocodilelib\\CSharpDemo\\Basic\\RecordSample\\RecordSampleDemo.cs",
+              "RelativeDocumentMoniker": "Basic\\RecordSample\\RecordSampleDemo.cs",
+              "ToolTip": "E:\\Dynamic\\1. Work\\1. On_Going\\5. Point Scanner\\chrocodilelib\\CSharpDemo\\Basic\\RecordSample\\RecordSampleDemo.cs",
+              "RelativeToolTip": "Basic\\RecordSample\\RecordSampleDemo.cs",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAUwGsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:40:08.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CHRLibConnection.cs",
+              "DocumentMoniker": "E:\\Dynamic\\1. Work\\1. On_Going\\5. Point Scanner\\chrocodilelib\\libcore\\cs\\CHRLibConnection.cs",
+              "RelativeDocumentMoniker": "..\\libcore\\cs\\CHRLibConnection.cs",
+              "ToolTip": "E:\\Dynamic\\1. Work\\1. On_Going\\5. Point Scanner\\chrocodilelib\\libcore\\cs\\CHRLibConnection.cs",
+              "RelativeToolTip": "..\\libcore\\cs\\CHRLibConnection.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAewD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:17:22.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecordSampleDemo.Designer.cs",
+              "DocumentMoniker": "E:\\Dynamic\\1. Work\\1. On_Going\\5. Point Scanner\\chrocodilelib\\CSharpDemo\\Basic\\RecordSample\\RecordSampleDemo.Designer.cs",
+              "RelativeDocumentMoniker": "Basic\\RecordSample\\RecordSampleDemo.Designer.cs",
+              "ToolTip": "E:\\Dynamic\\1. Work\\1. On_Going\\5. Point Scanner\\chrocodilelib\\CSharpDemo\\Basic\\RecordSample\\RecordSampleDemo.Designer.cs",
+              "RelativeToolTip": "Basic\\RecordSample\\RecordSampleDemo.Designer.cs",
+              "ViewState": "AgIAAG4CAAAAAAAAAAAuwIECAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:56:13.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecordSampleDemo.cs [Design]",
+              "DocumentMoniker": "E:\\Dynamic\\1. Work\\1. On_Going\\5. Point Scanner\\chrocodilelib\\CSharpDemo\\Basic\\RecordSample\\RecordSampleDemo.cs",
+              "RelativeDocumentMoniker": "Basic\\RecordSample\\RecordSampleDemo.cs",
+              "ToolTip": "E:\\Dynamic\\1. Work\\1. On_Going\\5. Point Scanner\\chrocodilelib\\CSharpDemo\\Basic\\RecordSample\\RecordSampleDemo.cs [Design]",
+              "RelativeToolTip": "Basic\\RecordSample\\RecordSampleDemo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:39:55.521Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1473,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

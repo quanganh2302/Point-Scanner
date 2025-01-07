@@ -1,0 +1,7 @@
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\libcore\lib\win\Win32\CSharpSyncConsoleMultiChannel.exe.config
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\libcore\lib\win\Win32\CSharpSyncConsoleMultiChannel.exe
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\libcore\lib\win\Win32\CSharpSyncConsoleMultiChannel.pdb
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Basic\ConsoleMultiChannel\obj\x86\Debug\CSharpSyncConsoleMultiChannel.csproj.AssemblyReference.cache
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Basic\ConsoleMultiChannel\obj\x86\Debug\CSharpSyncConsoleMultiChannel.csproj.CoreCompileInputs.cache
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Basic\ConsoleMultiChannel\obj\x86\Debug\CSharpSyncConsoleMultiChannel.exe
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Basic\ConsoleMultiChannel\obj\x86\Debug\CSharpSyncConsoleMultiChannel.pdb

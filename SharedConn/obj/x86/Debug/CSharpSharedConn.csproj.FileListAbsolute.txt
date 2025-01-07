@@ -1,0 +1,9 @@
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\libcore\lib\win\Win32\CSharpSharedConn.exe.config
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\libcore\lib\win\Win32\CSharpSharedConn.exe
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\libcore\lib\win\Win32\CSharpSharedConn.pdb
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\SharedConn\obj\x86\Debug\TCHRLibSharedConn.SharedConn.resources
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\SharedConn\obj\x86\Debug\TCHRLibSharedConn.Properties.Resources.resources
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\SharedConn\obj\x86\Debug\CSharpSharedConn.csproj.GenerateResource.cache
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\SharedConn\obj\x86\Debug\CSharpSharedConn.csproj.CoreCompileInputs.cache
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\SharedConn\obj\x86\Debug\CSharpSharedConn.exe
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\SharedConn\obj\x86\Debug\CSharpSharedConn.pdb

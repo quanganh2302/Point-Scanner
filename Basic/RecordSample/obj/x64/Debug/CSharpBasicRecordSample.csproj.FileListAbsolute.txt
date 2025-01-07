@@ -1,0 +1,22 @@
+E:\Dynamic\1. Work\1. On_Going\FSS_Project\chrocolib-T5-5-0-59-517aeeb0\chrocodilelib\libcore\lib\win\x64\CSharpBasicRecordSample.exe.config
+E:\Dynamic\1. Work\1. On_Going\FSS_Project\chrocolib-T5-5-0-59-517aeeb0\chrocodilelib\libcore\lib\win\x64\CSharpBasicRecordSample.exe
+E:\Dynamic\1. Work\1. On_Going\FSS_Project\chrocolib-T5-5-0-59-517aeeb0\chrocodilelib\libcore\lib\win\x64\CSharpBasicRecordSample.pdb
+E:\Dynamic\1. Work\1. On_Going\FSS_Project\chrocolib-T5-5-0-59-517aeeb0\chrocodilelib\CSharpDemo\Basic\RecordSample\obj\x64\Debug\CSharpBasicRecordSample.csproj.AssemblyReference.cache
+E:\Dynamic\1. Work\1. On_Going\FSS_Project\chrocolib-T5-5-0-59-517aeeb0\chrocodilelib\CSharpDemo\Basic\RecordSample\obj\x64\Debug\TCHRLibBasicRecordSample.Properties.Resources.resources
+E:\Dynamic\1. Work\1. On_Going\FSS_Project\chrocolib-T5-5-0-59-517aeeb0\chrocodilelib\CSharpDemo\Basic\RecordSample\obj\x64\Debug\TCHRLibBasicRecordSample.TRecordSample.resources
+E:\Dynamic\1. Work\1. On_Going\FSS_Project\chrocolib-T5-5-0-59-517aeeb0\chrocodilelib\CSharpDemo\Basic\RecordSample\obj\x64\Debug\CSharpBasicRecordSample.csproj.GenerateResource.cache
+E:\Dynamic\1. Work\1. On_Going\FSS_Project\chrocolib-T5-5-0-59-517aeeb0\chrocodilelib\CSharpDemo\Basic\RecordSample\obj\x64\Debug\CSharpBasicRecordSample.csproj.CoreCompileInputs.cache
+E:\Dynamic\1. Work\1. On_Going\FSS_Project\chrocolib-T5-5-0-59-517aeeb0\chrocodilelib\CSharpDemo\Basic\RecordSample\obj\x64\Debug\CSharpBasicRecordSample.exe
+E:\Dynamic\1. Work\1. On_Going\FSS_Project\chrocolib-T5-5-0-59-517aeeb0\chrocodilelib\CSharpDemo\Basic\RecordSample\obj\x64\Debug\CSharpBasicRecordSample.pdb
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\libcore\lib\win\x64\CSharpBasicRecordSample.exe.config
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\libcore\lib\win\x64\CSharpBasicRecordSample.exe
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\libcore\lib\win\x64\CSharpBasicRecordSample.pdb
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Basic\RecordSample\obj\x64\Debug\CSharpBasicRecordSample.csproj.AssemblyReference.cache
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Basic\RecordSample\obj\x64\Debug\TCHRLibBasicRecordSample.Properties.Resources.resources
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Basic\RecordSample\obj\x64\Debug\TCHRLibBasicRecordSample.TRecordSample.resources
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Basic\RecordSample\obj\x64\Debug\CSharpBasicRecordSample.csproj.GenerateResource.cache
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Basic\RecordSample\obj\x64\Debug\CSharpBasicRecordSample.csproj.CoreCompileInputs.cache
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Basic\RecordSample\obj\x64\Debug\CSharpBasicRecordSample.exe
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Basic\RecordSample\obj\x64\Debug\CSharpBasicRecordSample.pdb
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Basic\RecordSample\obj\x64\Debug\Interop.DATABUILDERAXLibLB.dll
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Basic\RecordSample\obj\x64\Debug\Interop.DBBarMeterLibLB.dll

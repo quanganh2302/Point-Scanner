@@ -1,0 +1,10 @@
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\libcore\lib\win\Win32\CSharpCLS2CalibPlugin.exe.config
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\libcore\lib\win\Win32\CSharpCLS2CalibPlugin.exe
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\libcore\lib\win\Win32\CSharpCLS2CalibPlugin.pdb
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Plugin\CLS2CalibPlugin\obj\x86\Debug\TCHRLibCLS2CalibPlugin.MainForm.resources
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Plugin\CLS2CalibPlugin\obj\x86\Debug\TCHRLibCLS2CalibPlugin.Properties.Resources.resources
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Plugin\CLS2CalibPlugin\obj\x86\Debug\CSharpCLS2CalibPlugin.csproj.GenerateResource.cache
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Plugin\CLS2CalibPlugin\obj\x86\Debug\CSharpCLS2CalibPlugin.csproj.CoreCompileInputs.cache
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Plugin\CLS2CalibPlugin\obj\x86\Debug\CSharpCLS2CalibPlugin.exe
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Plugin\CLS2CalibPlugin\obj\x86\Debug\CSharpCLS2CalibPlugin.pdb
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\Plugin\CLS2CalibPlugin\obj\x86\Debug\CSharpCLS2CalibPlugin.csproj.AssemblyReference.cache

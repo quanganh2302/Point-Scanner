@@ -1,0 +1,9 @@
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\libcore\lib\win\Win32\CSharpMultiChannelScanning.exe.config
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\libcore\lib\win\Win32\CSharpMultiChannelScanning.exe
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\libcore\lib\win\Win32\CSharpMultiChannelScanning.pdb
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\TriggerScanning\MultiChannel\obj\x86\Debug\TCHRLibMultiChannelScanning.MultiChannelScanningDemo.resources
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\TriggerScanning\MultiChannel\obj\x86\Debug\CSharpMultiChannelScanning.Properties.Resources.resources
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\TriggerScanning\MultiChannel\obj\x86\Debug\CSharpMultiChannelScanning.csproj.GenerateResource.cache
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\TriggerScanning\MultiChannel\obj\x86\Debug\CSharpMultiChannelScanning.csproj.CoreCompileInputs.cache
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\TriggerScanning\MultiChannel\obj\x86\Debug\CSharpMultiChannelScanning.exe
+E:\Dynamic\1. Work\1. On_Going\5. Point Scanner\chrocodilelib\CSharpDemo\TriggerScanning\MultiChannel\obj\x86\Debug\CSharpMultiChannelScanning.pdb
