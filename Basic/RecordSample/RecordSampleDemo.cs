@@ -32,8 +32,6 @@ namespace TCHRLibBasicRecordSample
 
         int CurrentDataPos;
         CHRocodileLib.Data RecordData = null;
-
-
         public TRecordSample()
         {
             InitializeComponent();
@@ -234,8 +232,8 @@ namespace TCHRLibBasicRecordSample
 
         private void StartRecording()
         {
-            DrawArea.Width = textBox1.Text != "" ? int.Parse(textBox1.Text) : 500;
-            DrawArea.Height = textBox2.Text != "" ? int.Parse(textBox2.Text) : 500;
+            //DrawArea.Width = textBox1.Text != "" ? int.Parse(textBox1.Text) : 500;
+            //DrawArea.Height = textBox2.Text != "" ? int.Parse(textBox2.Text) : 500;
             labelRecordingHint.Visible = false;
             //throw away the old data
             if (CBFlush.Checked)
@@ -748,7 +746,6 @@ namespace TCHRLibBasicRecordSample
 
             if (Convert.ToInt32((sender as Button).Tag) == 0)
             {
-                DrawArea.Refresh();
                 StartRecording();
             }
             else
